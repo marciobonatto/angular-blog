@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0 0 0;
+}
+.container__articles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 30px 0 0 0;
+}
+.articles__others {
+  margin: 0 20px;
+}

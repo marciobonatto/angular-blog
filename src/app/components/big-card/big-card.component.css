@@ -1,0 +1,23 @@
+.container__big-card{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 400px;
+  height: 600px;
+  margin: 0 20px;
+}
+.big-card__image > img {
+  width:100%;
+  min-width: 400px;
+}
+.big-card__title > h1 {
+  margin:15px 0 0 0;
+  font-size: 20px;
+}
+.big-card__description {
+  margin:10px 0 0 0;
+}
+.big-card__description > p > a {
+  color: #9f9f9f;
+}

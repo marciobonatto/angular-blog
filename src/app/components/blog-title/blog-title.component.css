@@ -1,0 +1,15 @@
+.container__blog-title {
+  color: #FFFFFF;
+}
+.container__blog-title > h1 {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0 35px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-size: 135px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container__blog-title > hr {
+  margin:20px 0 5px;
+}
